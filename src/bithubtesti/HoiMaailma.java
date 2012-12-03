@@ -8,12 +8,12 @@ package bithubtesti;
  *
  * @author s1000786
  */
-public class Helloworld {
+public class HoiMaailma {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        System.out.println("Hoi Maailma");
     }
 }
